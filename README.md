@@ -17,7 +17,7 @@ This site was made using semantic HTML. This allows for the site to be more acce
 
 # Demos
 
-![HTML CSS demo site](assets/images/search-engine-optimization.gif)
+![HTML CSS demo site](assets/images/site-demo.gif)
 
 ## Deployed
 
