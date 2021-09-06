@@ -7,7 +7,7 @@ so that our own site is optimized for search engines.
 
 ## About
 
-This site was made using semantic HTML. This allows for the site to be more accesible and
+This site was made using semantic HTML. This also allows for the site to be more accesible and better optimized for search engines.
 
 # Demos
 
